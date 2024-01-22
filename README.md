@@ -5,5 +5,5 @@
 ***
 
 ## Case Studies
-1. [Cyclistic Ride Share](https://github.com/kivatmojo/google_data_analytics/blob/main/cyclistic_ride_share/README.md) (Ongoing)
-2. [Bellabeat Wellness Technology](https://github.com/kivatmojo/google_data_analytics/blob/main/bellabeat_wellness/README.md) (Ongoing)
+1. [Cyclistic Ride Share](https://github.com/kivatmojo/google_data_analytics/blob/main/cyclistic_ride_share/README.md) (In Progress)
+2. [Bellabeat Wellness Technology](https://github.com/kivatmojo/google_data_analytics/blob/main/bellabeat_wellness/README.md) (In Progress)
