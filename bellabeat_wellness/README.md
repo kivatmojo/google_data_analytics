@@ -1,4 +1,4 @@
-# Case Study 2:
+# Case Study 2
 ## Bellabeat Wellness Technology
 
 ***
